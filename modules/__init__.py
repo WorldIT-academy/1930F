@@ -1,2 +1,3 @@
 from. window import main_window
 from .city_frame import cities
+from .cities import *
