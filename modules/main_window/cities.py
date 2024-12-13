@@ -44,7 +44,7 @@ class City(customtkinter.CTkFrame):
         self.weather_description.place(x = 14, y = 66)
         self.city_time.place(x = 14, y = 28)
         self.city_name.place(x = 14, y = 8 )
-        self.city_temperature.place(x = 154, y = 6)
+        self.city_temperature.place(x = 152, y = 6)
         self.city_min_max_temperature.place(x = 122, y = 66)
         
         
