@@ -1,44 +1,45 @@
 {
     "coord": {
-        "lon": 34.9833,
-        "lat": 48.45
+        "lon": 2.3488,
+        "lat": 48.8534
     },
     "weather": [
         {
-            "id": 803,
+            "id": 804,
             "main": "Clouds",
-            "description": "рвані хмари",
+            "description": "хмарно",
             "icon": "04n"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": -4.72,
-        "feels_like": -11.72,
-        "temp_min": -4.72,
-        "temp_max": -4.72,
-        "pressure": 1028,
-        "humidity": 61,
-        "sea_level": 1028,
-        "grnd_level": 1016
+        "temp": 9.05,
+        "feels_like": 7.32,
+        "temp_min": 8.45,
+        "temp_max": 9.49,
+        "pressure": 1035,
+        "humidity": 91,
+        "sea_level": 1035,
+        "grnd_level": 1025
     },
     "visibility": 10000,
     "wind": {
-        "speed": 6.77,
-        "deg": 319,
-        "gust": 11.58
+        "speed": 3.09,
+        "deg": 240
     },
     "clouds": {
-        "all": 70
+        "all": 100
     },
-    "dt": 1734116335,
+    "dt": 1734375796,
     "sys": {
-        "country": "UA",
-        "sunrise": 1734067426,
-        "sunset": 1734097508
+        "type": 2,
+        "id": 2012208,
+        "country": "FR",
+        "sunrise": 1734334709,
+        "sunset": 1734364463
     },
-    "timezone": 7200,
-    "id": 709930,
-    "name": "Dnipro",
+    "timezone": 3600,
+    "id": 2988507,
+    "name": "Paris",
     "cod": 200
 }
