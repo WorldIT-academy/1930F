@@ -18,7 +18,7 @@ class City(customtkinter.CTkFrame):
             corner_radius = 20
         )
         self.pack(pady= 30)
-        update_weather(city_name)
+        update_weather(city_name, "weather_data.json")
 
         self.data = read("weather_data.json")
 
